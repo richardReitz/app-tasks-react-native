@@ -1,6 +1,9 @@
 # App Tasks
-App feito em exercicio do curso de React Native, utilizando Firebase como banco de dados;
+App desenvolvido com o objetivo de criar tarefas(tasks) diárias, com a opção de editar e excluir as tarefas. Feito em exercicio do curso de React Native, utilizando Firebase para a autenticação e banco de dados;
 
+# Tecnologias utilizadas:
+  * React Native
+  * Firebase
 # Img
 
 <div align="center">
